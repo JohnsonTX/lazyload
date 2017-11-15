@@ -1,0 +1,18 @@
+{
+  "errcode" : 0,
+  "errmsg" : "ok",
+  "userlist" : [{
+    "userid" : "chenYongTu",
+    "name" : "陈U",
+    "department" : []
+  }, {
+    "userid" : "Davidsl1z",
+    "name" : "Davidslz",
+    "department" : []
+  }, {
+    "userid" : "ktl123456",
+    "name" : "LT_",
+    "department" : []
+  }
+  ]
+}  
