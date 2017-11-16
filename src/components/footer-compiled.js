@@ -354,6 +354,15 @@ var Footer = function (_Component2) {
                 )
               )
             )
+          ),
+          _react2.default.createElement(
+            "div",
+            null,
+            _react2.default.createElement(
+              "span",
+              null,
+              "\u62C9\u5347\u7A7A\u95F4\u7684\u7A7A\u95F4"
+            )
           )
         ),
         _react2.default.createElement("img", { id: "imgD", src: "../images/yeoman.png", "data-src": "../images/hq.jpg", alt: "", ref: "imgData" })

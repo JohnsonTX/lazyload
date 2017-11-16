@@ -132,6 +132,9 @@ export default class Footer extends Component{
               </figure>
             </article>
           </hgroup>
+          <div>
+            <span>拉升空间的空间</span>
+          </div>
         </footer>
         <img id="imgD" src="../images/yeoman.png" data-src="../images/hq.jpg" alt="" ref="imgData"/>
 
